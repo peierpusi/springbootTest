@@ -7,7 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/test")
 public class TestController {
     @RequestMapping("/test")
-    public String test() {
+    public String test()
+    {
+        System.out.println("push");
         return "success";
     }
 }
