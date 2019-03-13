@@ -13,6 +13,7 @@ public class CommonMapperApplicationTests {
     public void contextLoads() {
         System.out.println("提交");
         System.out.println("222");
+          System.out.println("修改");
     }
 
 }
