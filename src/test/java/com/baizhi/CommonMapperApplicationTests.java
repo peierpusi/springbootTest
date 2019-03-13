@@ -11,6 +11,7 @@ public class CommonMapperApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("提交");
     }
 
 }
