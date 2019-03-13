@@ -17,6 +17,7 @@ public class CommonMapperApplicationTests {
         System.out.println("修改");
         System.out.println("wode");
         System.out.println("再次修改");
+        System.out.println("我的修改");
     }
 
 }
